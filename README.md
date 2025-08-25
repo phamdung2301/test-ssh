@@ -1,1 +1,1 @@
-# test-ssh on my github
+# test-ssh on my computer
